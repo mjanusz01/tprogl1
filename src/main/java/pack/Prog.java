@@ -61,6 +61,8 @@ public final class Prog{
         }
     }
 
+    //comment
+
     public static final class Oval{
         private final double r;
         public Oval(double pr){
