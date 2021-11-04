@@ -45,6 +45,8 @@ public final class Prog{
 
     }
 
+    //comment
+
     public static final class Rectangle{
         private final double a, b;
         public Rectangle(double x, double y){
