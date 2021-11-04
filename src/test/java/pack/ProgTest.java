@@ -18,7 +18,7 @@ public class ProgTest{
 
     @Test
     public void progCircuitTest(){
-        final double givenWidth = 4;k
+        final double givenWidth = 4;
         final double givenHeight = 7;
         final double expectedCircuit = 22;
 
